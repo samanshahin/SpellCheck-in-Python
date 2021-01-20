@@ -1,2 +1,2 @@
 # SpellCheck-in-Python
- using contextualSpellCheck library
+ using contextualSpellCheck library (It's part of a NLP project)
